@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: azure;
+}
+.texttotoggle {
+    color: aqua;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+}
+.toggledClass{
+    display: block;
+}
+.btn{
+    color: cadetblue;
+    border: none;
+    background-color: aqua;
+    font-size: 20px;
+    padding: 20px 50px;
+    cursor: pointer;
+}
+
